@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **News Portal and Personal Portfolio Web-sites**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **kirilkulikoff@gmail.com**
 
