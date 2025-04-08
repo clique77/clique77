@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **News Portal and Personal Portfolio Web-sites**
+- 🔭 I’m currently working on **Job portal full stack application**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **kirilkulikoff@gmail.com**
 
